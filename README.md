@@ -1,5 +1,7 @@
 # [Kauntah SVG]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/3846masa/kauntah-svg.svg)](https://greenkeeper.io/)
+
 ![kauntah](https://kauntah-svg.mikumiku.moe/counter.svg)
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
